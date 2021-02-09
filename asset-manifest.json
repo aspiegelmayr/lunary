@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lunary/static/css/main.ef3b71c7.chunk.css",
-    "main.js": "/lunary/static/js/main.e53e39a8.chunk.js",
-    "main.js.map": "/lunary/static/js/main.e53e39a8.chunk.js.map",
+    "main.js": "/lunary/static/js/main.33c99f49.chunk.js",
+    "main.js.map": "/lunary/static/js/main.33c99f49.chunk.js.map",
     "runtime-main.js": "/lunary/static/js/runtime-main.de57d80f.js",
     "runtime-main.js.map": "/lunary/static/js/runtime-main.de57d80f.js.map",
     "static/js/2.8d2e90cd.chunk.js": "/lunary/static/js/2.8d2e90cd.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.de57d80f.js",
     "static/js/2.8d2e90cd.chunk.js",
     "static/css/main.ef3b71c7.chunk.css",
-    "static/js/main.e53e39a8.chunk.js"
+    "static/js/main.33c99f49.chunk.js"
   ]
 }
