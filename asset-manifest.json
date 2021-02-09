@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/lunary/static/css/main.ef3b71c7.chunk.css",
+    "main.js": "/lunary/static/js/main.e53e39a8.chunk.js",
+    "main.js.map": "/lunary/static/js/main.e53e39a8.chunk.js.map",
+    "runtime-main.js": "/lunary/static/js/runtime-main.de57d80f.js",
+    "runtime-main.js.map": "/lunary/static/js/runtime-main.de57d80f.js.map",
+    "static/js/2.8d2e90cd.chunk.js": "/lunary/static/js/2.8d2e90cd.chunk.js",
+    "static/js/2.8d2e90cd.chunk.js.map": "/lunary/static/js/2.8d2e90cd.chunk.js.map",
+    "static/js/3.f0fb3016.chunk.js": "/lunary/static/js/3.f0fb3016.chunk.js",
+    "static/js/3.f0fb3016.chunk.js.map": "/lunary/static/js/3.f0fb3016.chunk.js.map",
+    "index.html": "/lunary/index.html",
+    "static/css/main.ef3b71c7.chunk.css.map": "/lunary/static/css/main.ef3b71c7.chunk.css.map",
+    "static/js/2.8d2e90cd.chunk.js.LICENSE.txt": "/lunary/static/js/2.8d2e90cd.chunk.js.LICENSE.txt",
+    "static/media/coat.60e4afa2.jpg": "/lunary/static/media/coat.60e4afa2.jpg",
+    "static/media/dress.ff4659d4.jpg": "/lunary/static/media/dress.ff4659d4.jpg",
+    "static/media/shirt.0776cc0d.jpg": "/lunary/static/media/shirt.0776cc0d.jpg",
+    "static/media/index.css": "/lunary/static/media/sketchgothicschool.e8c8b9f3.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de57d80f.js",
+    "static/js/2.8d2e90cd.chunk.js",
+    "static/css/main.ef3b71c7.chunk.css",
+    "static/js/main.e53e39a8.chunk.js"
+  ]
+}
